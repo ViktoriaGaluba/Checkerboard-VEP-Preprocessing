@@ -1,4 +1,4 @@
-# Checkerboard-VEP-Preprocessing
+# Checkerboard Reversal VEP-Plasticity Preprocessing
 This repository contains MATLAB scripts implementing the core EEG preprocessing and visual evoked potential (VEP) analysis pipeline (checkerboard reversal).  The provided code focuses on the essential steps required to reproduce the preprocessing and extraction of VEP components. Auxiliary, exploratory, and visualization scripts are not included. This paradigm is adapted from 
 Normann C, Schmitz D, Fürmaier A, Döing C, Bach M. Long-term plasticity of visually evoked potentials in humans is altered in major depression. Biol Psychiatry. 2007 Sep 1;62(5):373-80. doi: 10.1016/j.biopsych.2006.10.006. Epub 2007 Jan 19. PMID: 17240361.
 
